@@ -7,6 +7,13 @@
     font-family: 'Poppins', sans-serif;
     
 }
+.loader img{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 10rem !important;
+    margin-bottom: auto !important;
+    display: block !important;
+}
 .loader-content{
     text-align: center;
     font-size: 40px;
